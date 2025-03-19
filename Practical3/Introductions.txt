@@ -1,0 +1,5 @@
+Hello, my name is Liu Zheng.
+I like drinking tea and coffee.
+I like playing soccer especially playing as a registar
+I am enjoying learning IBI1 
+I am happy that I can push my repo from Visual Studio Code to GitHub.
