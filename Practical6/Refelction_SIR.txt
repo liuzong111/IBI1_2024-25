@@ -1,0 +1,4 @@
+This part is quite hard. The first difficulty is that the task required us to have a quite deep understanding of some function provided 
+by matploylib. Besides, these tasks ,especially the last one, required us to flexibly use the 'for' loop and 'if' function.
+It needs a lot patient to fix the progrem again and again.After all, it needs a strong logic thinking.
+However,pair disscusion helps me a lot. And with other's help I managed to finish the task.
