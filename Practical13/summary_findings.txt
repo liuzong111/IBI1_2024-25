@@ -1,0 +1,5 @@
+The similarity rate betweeen human and mouse SOD2 is 90.09% and the score is 1097.0.
+The similarity rate betweeen human and random SOD2 is 5.41% and the score is -200.0.
+The similarity rate betweeen mouse and random SOD2 is 5.86% and the score is -205.0.
+
+The SOD2 protein in human (P04179) and SOD2 peotein in mouse (P09671) are very similar and it is beyond my expection.
