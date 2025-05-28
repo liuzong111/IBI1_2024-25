@@ -1,0 +1,11 @@
+Question: In each year, which country had the highest DALYs?
+
+The codes to solve this question is from line 39-45 in dalys.py 
+Discussion: first i reorganize the chart in according the year order, then I choose the line with 
+the biggest DALYs value. All is good, but in the output part because I store the infomation in a list/chart 
+so when I print the result, it includes the line number. Maybe I can tyr to transform the type of the value into a numrical variable.
+But I don't know how to do it. 
+
+
+
+
